@@ -1,4 +1,4 @@
-# Project 2 - *U3_Simple*
+# Project 2 - *U3_SimpleTweet*
 
 **Simple Tweet** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
